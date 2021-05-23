@@ -1,2 +1,2 @@
 # hello-world
-Getting used to Git-hub
+Getting used to Git-hub here we go!
